@@ -1,0 +1,5 @@
+name: sun397
+class_num: 397
+lr: 0.002
+num: 10
+seed: 100

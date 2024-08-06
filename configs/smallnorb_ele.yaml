@@ -1,0 +1,5 @@
+name: smallnorb_ele
+class_num: 9
+lr: 0.001
+num: 10
+seed: 42

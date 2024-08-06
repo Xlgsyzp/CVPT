@@ -1,0 +1,5 @@
+name: clevr_dist
+class_num: 6
+lr: 0.001
+num: 5
+seed: 800

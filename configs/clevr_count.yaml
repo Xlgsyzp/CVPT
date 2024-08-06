@@ -1,0 +1,5 @@
+name: clevr_count
+class_num: 8
+lr: 0.001
+num: 10
+seed: 44

@@ -1,0 +1,5 @@
+name: resisc45
+class_num: 45
+lr: 0.01
+num: 5
+seed: 800

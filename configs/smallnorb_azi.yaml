@@ -1,0 +1,5 @@
+name: smallnorb_azi
+class_num: 18
+lr: 0.005
+num: 20
+seed: 80

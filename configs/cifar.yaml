@@ -1,0 +1,5 @@
+name: cifar
+class_num: 100
+lr: 0.001
+num: 10
+seed: 44

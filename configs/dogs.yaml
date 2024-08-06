@@ -1,0 +1,3 @@
+name: "StanfordDogs"
+class_num: 120
+path: "./data/Stanford_Dogs"

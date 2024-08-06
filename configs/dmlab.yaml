@@ -1,0 +1,5 @@
+name: dmlab
+class_num: 6
+lr: 0.005
+num: 10
+seed: 800

@@ -1,0 +1,5 @@
+name: dsprites_ori
+class_num: 16
+lr: 0.005
+num: 20
+seed: 800

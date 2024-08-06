@@ -1,0 +1,5 @@
+name: patch_camelyon
+class_num: 2
+lr: 0.01
+num: 1
+seed: 80

@@ -1,0 +1,5 @@
+name: kitti
+class_num: 4
+lr: 0.002
+num: 20
+seed: 44

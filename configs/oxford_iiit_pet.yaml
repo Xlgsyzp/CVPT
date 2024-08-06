@@ -1,0 +1,5 @@
+name: oxford_iiit_pet
+class_num: 37
+lr: 0.001
+num: 5
+seed: 44

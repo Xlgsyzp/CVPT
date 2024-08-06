@@ -1,0 +1,5 @@
+name: oxford_flowers102
+class_num: 102
+lr: 0.002
+num: 20
+seed: 80

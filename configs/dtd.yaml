@@ -1,0 +1,5 @@
+name: dtd
+class_num: 47
+lr: 0.001
+num: 20
+seed: 80

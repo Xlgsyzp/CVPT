@@ -1,0 +1,5 @@
+name: caltech101
+class_num: 102
+lr: 0.01
+num: 5
+seed: 44
