@@ -19,11 +19,17 @@ $ROOT/data
 - Download the [pretrained ViT-B/16](https://storage.googleapis.com/vit_models/imagenet21k/ViT-B_16.npz) to `./ViT-B_16.npz`
 
 ## Environment settings
+
 conda create -n cvpt python=3.7
+
 conda activate cvpt
+
 conda install pytorch==1.10.0 torchvision==0.11.0 torchaudio==0.10.0 cudatoolkit=10.2 -c pytorch
+
 pip install timm==0.5.4
+
 pip install avalanche-lib==0.2.1
+
 
 ## Testing
 bash scripts/test_all.sh
